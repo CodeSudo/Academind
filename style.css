@@ -1,0 +1,50 @@
+body {
+  background-color: bisque;
+  font-family: "Climate Crisis", cursive;
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+}
+
+.maindiv {
+  height: 500px;
+  width: 500px;
+  background-color: cadetblue;
+}
+.one,
+.two,
+.three {
+  margin: 5px;
+  height: 100px;
+  width: 100px;
+  background-color: cornflowerblue;
+  align-items: center;
+  /*margin-left: 80px;*/
+  margin-top: 50px;
+}
+a {
+  font-size: 30px;
+  color: dimgrey;
+  text-decoration: none;
+  background-color: gold;
+  padding: 20px;
+  border-radius: 8%;
+}
+a:hover {
+  /* text-decoration: underline; */
+  color: crimson;
+  text-decoration: underline;
+}
+img {
+  border-radius: 100%;
+}
+h1 {
+  color: #b23a48;
+}
+li {
+  list-style: none;
+  background-color: darksalmon;
+  border-radius: 12px;
+  padding: 5px;
+  margin: 40px;
+  align-items: center;
+}
